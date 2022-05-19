@@ -1,0 +1,25 @@
+.chapter-form {
+  padding: 3rem;
+  border: 1px solid darkgrey;
+  border-radius: 2rem;
+  margin-top: 2rem;
+  font-size: 0.8rem;
+}
+
+.input-chapter {
+  width: 50%;
+  background: #c4c4c4;
+  border: 1px solid grey;
+  height: 2rem;
+}
+
+.fg {
+  margin-top: 1rem !important;
+}
+
+.add-btn {
+  background: #c4c4c4;
+  border: none;
+  color: black;
+  width: 7rem;
+}

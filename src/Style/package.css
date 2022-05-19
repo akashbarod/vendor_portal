@@ -1,0 +1,20 @@
+.main-content{
+    padding: 2rem;
+    border: 1px solid darkgrey;
+    border-radius: 1rem;
+    margin: 1rem;
+    font-size: 0.8rem;
+}
+
+.board-div{
+    display: flex;
+}
+
+.common-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.email-field{
+    width: 50%;
+}
